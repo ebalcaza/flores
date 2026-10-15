@@ -20,3 +20,7 @@ a adjuntar en otro archivo, llamado "urls-1792039914868.csv"
 tambien dejaras anotaciones en el codigo que ayudaran a entender que hace cada parte del codigo.
 puedes ayudarme con los estilos, y proponer ideas para crear una galeria de arte contemporanea, que pueda
 visualizarse en diferentes dispositivos, haciendo incapie en los moviles.
+
+
+IMAGEKIT, TIENE LAS IMAGENES.
+https://imagekit.io/dashboard/media-library/L2Zsb3JlczEvRkxPUkVT
